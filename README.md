@@ -139,7 +139,7 @@ Este projeto é um sistema de comunicação que inclui uma plataforma web e um a
    - Visualização e pesquisa no histórico de mensagens.
 
 ## Modelo Banco de Dados
-![modelo banco](images/modelo_banco.jpg)
+![modelo banco](imagens/modelo_banco.jpg)
 
 ## Documentação da API com Postman
 
