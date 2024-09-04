@@ -116,27 +116,9 @@ Este projeto é um sistema de comunicação que inclui uma plataforma web e um a
    - Opções de consentimento e controle de informações pessoais.
 
 
-## Fluxos das Principais Telas
+## Figma
+- **Link:**[Texto do Link](https://www.figma.com/proto/6106sX3b17CTg80JdCViFc/Whatsapp-2?node-id=0-1&t=dBAZjtLKMyNfvyCk-1)
 
-1. **Tela de Login/Registro:**
-   - Campos: E-mail, Senha
-   - Ações: Login, Registro, Recuperar Senha
-
-2. **Tela Principal (Linha de Conversa):**
-   - Exibição de mensagens em tempo real.
-   - Campo de entrada de mensagem.
-   - Botão de envio.
-
-3. **Tela de Gerenciamento de Mensagens Programadas:**
-   - Listagem de mensagens programadas.
-   - Interface para adicionar, editar ou remover mensagens programadas.
-
-4. **Tela de Configurações do Chatbot:**
-   - Definir regras e condições para o chatbot.
-   - Configurar mensagens automáticas e alertas.
-
-5. **Tela de Histórico de Mensagens:**
-   - Visualização e pesquisa no histórico de mensagens.
 
 ## Modelo Banco de Dados
 ![modelo banco](imagens/modelo_banco.jpg)
